@@ -5,6 +5,6 @@
 ##   
 ##  2. O(n²)
 ##
-##3. Best Case: 2 - 6, Average Case: 18, Worst Case: 22 - 27
+##  3. Best Case: 2 - 6, Average Case: 18, Worst Case: 22 - 27
 ##    
-##4. 18 -> Average Case 
+##  4. 18 -> Average Case 
